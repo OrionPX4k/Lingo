@@ -9,14 +9,14 @@ In France it's called Motus."
 
 Exemple :
 
-**.**: invalid letter \
+**_**: invalid letter \
 **?**: incorrectly placed letter \
 Will you find the secret word ? \
-p....
+p _ _ _ _
 
 Round 1 \
 **>petit** \
-p.... \
+p _ _ _ _ \
 
 Round 2 \
 **>panda** \
