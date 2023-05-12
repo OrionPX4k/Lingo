@@ -9,18 +9,18 @@ In France it's called Motus."
 
 Exemple :
 
-"*: invalid letter"
-"?: incorrectly placed letter"
-Will you find the secret word ?
+*: invalid letter \
+?: incorrectly placed letter \
+Will you find the secret word ? \
 p****
 
-Round 1
-=>petit
-p****
+Round 1 \
+=>petit \
+p**** \
 
-Round 2
-=>panda
-panda
+Round 2 \
+=>panda \
+panda \
 You won!
 
 ===============================================
