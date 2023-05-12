@@ -15,11 +15,11 @@ Will you find the secret word ? \
 p****
 
 Round 1 \
->petit \
+**>petit** \
 p**** \
 
 Round 2 \
->panda \
+**>panda** \
 panda \
 You won!
 
