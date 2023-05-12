@@ -9,17 +9,17 @@ In France it's called Motus."
 
 Exemple :
 
-*: invalid letter
-?: incorrectly placed letter
+"*: invalid letter"
+"?: incorrectly placed letter"
 Will you find the secret word ?
 p****
 
 Round 1
->petit
+=>petit
 p****
 
 Round 2
->panda
+=>panda
 panda
 You won!
 
