@@ -1,5 +1,5 @@
 # Lingo
-# {EPITECH} | First Years | DuoStumper08 in C
+# {EPITECH} | First Years
 
 "Lingo game : One player have multiple tries to
 guess a Word
